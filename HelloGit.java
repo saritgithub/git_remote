@@ -12,6 +12,7 @@ public class HelloGit {
 		System.out.println("Hello " + name);
 		
 		System.out.println("Welcome to She Codes!");
+		System.out.println("Enjoy");
 
 	}
 
