@@ -10,6 +10,9 @@ public class HelloGit {
 		System.out.println("What is your username?");
 		String name = username.nextLine();
 		System.out.println("Hello " + name);
+		
+		System.out.println("Welcome to She Codes!");
+		System.out.println("Enjoy learning");
 
 	}
 
